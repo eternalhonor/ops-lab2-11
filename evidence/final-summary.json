@@ -1,0 +1,44 @@
+{
+  "r1-pool4": {
+    "step": "7",
+    "target_rps": "384",
+    "ok_rps": "384.7",
+    "p99_ms": "1007.31",
+    "error_rate": "0.0052"
+  },
+  "r2-pool45": {
+    "step": "6",
+    "target_rps": "2313",
+    "ok_rps": "2316.0",
+    "p99_ms": "33.32",
+    "error_rate": "0.0000"
+  },
+  "w1-each": {
+    "step": "7",
+    "target_rps": "759",
+    "ok_rps": "757.6",
+    "p99_ms": "1974.19",
+    "error_rate": "0.0000"
+  },
+  "w2-group": {
+    "step": "7",
+    "target_rps": "2761",
+    "ok_rps": "2756.2",
+    "p99_ms": "7.09",
+    "error_rate": "0.0000"
+  },
+  "w3-interval": {
+    "step": "3",
+    "target_rps": "2761",
+    "ok_rps": "2755.1",
+    "p99_ms": "1.23",
+    "error_rate": "0.0000"
+  },
+  "w2-at-w1limit": {
+    "step": "1",
+    "target_rps": "759",
+    "ok_rps": "763.8",
+    "p99_ms": "6.30",
+    "error_rate": "0.0000"
+  }
+}

@@ -5,7 +5,8 @@
     "r2-pool45",
     "w1-each",
     "w2-group",
-    "w3-interval"
+    "w3-interval",
+    "w2-at-w1limit"
   ],
   "r1_pool_max": 4.0,
   "r2_cpu_max": 1.01072,
