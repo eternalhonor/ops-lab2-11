@@ -1,0 +1,22 @@
+{
+  "runs": [
+    "t1-light",
+    "r1-pool4",
+    "r2-pool45",
+    "w1-each",
+    "w2-group",
+    "w3-interval"
+  ],
+  "r1_pool_max": 4.0,
+  "r2_cpu_max": 1.01072,
+  "r2_pool_size": 45,
+  "r2_pool_at_cpu_max": 40.1429,
+  "warn_rows": [
+    [
+      "r2-pool45",
+      "7",
+      "2628",
+      "发送滞后 p99 = 10.4 ms，压测机没能按计划发出请求"
+    ]
+  ]
+}
