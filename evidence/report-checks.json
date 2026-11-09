@@ -1,0 +1,22 @@
+{
+  "analysis_lengths": {
+    "1": {
+      "chinese_chars": 344,
+      "nonspace_chars": 638
+    },
+    "2": {
+      "chinese_chars": 328,
+      "nonspace_chars": 677
+    },
+    "3": {
+      "chinese_chars": 397,
+      "nonspace_chars": 711
+    },
+    "4": {
+      "chinese_chars": 421,
+      "nonspace_chars": 670
+    }
+  },
+  "raw_files_hashed": 84,
+  "optional_runs": 0
+}
